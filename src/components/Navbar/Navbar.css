@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Nord;
+    src: url("../../assets/Nord\ Regular.otf");
+}
+
+.navbar{
+    font-family: Nord;
+    font-weight: 500;
+}
